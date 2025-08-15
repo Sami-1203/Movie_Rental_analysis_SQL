@@ -10,4 +10,4 @@ Which countries are Rockbuster customers based in?
 Where are customers with a high lifetime value based?
 Do sales figures vary between geographic regions?
  ## Data overview
- The [dataset]('/Users/samiyamalhotra/Desktop/Samiya/sql project 2/dvdrental.zip') rests in a SQL database and consists of 15 tables. A data dictionary and Entity Relationship Diagram (ERD) has been created as part of this analysis.
+ The [dataset](/Users/samiyamalhotra/Desktop/Samiya/sql project 2/dvdrental.zip) rests in a SQL database and consists of 15 tables. A data dictionary and Entity Relationship Diagram (ERD) has been created as part of this analysis.
